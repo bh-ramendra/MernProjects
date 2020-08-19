@@ -16,7 +16,7 @@ Popular game!!
 in this project user can switch whole application in night mode Or light mode
 ### Light Mode
 ![image](https://user-images.githubusercontent.com/56904422/90604557-a72d1c80-e21a-11ea-9139-4f979556065b.png)
-Night Mode
+### Night Mode
 ![image](https://user-images.githubusercontent.com/56904422/90604620-c330be00-e21a-11ea-963b-b4a2e39e1e64.png)
 
 
