@@ -21,5 +21,7 @@ in this project user can switch whole application in night mode Or light mode
 
 ## 6th project :- Six-Context Reducer ToDo Application
 in this project i created Context based ToDo Application. in this user can put his Todo and can remove his todo after done his work
-
 ![Screenshot (93)](https://user-images.githubusercontent.com/56904422/90722083-bf16a600-e2d7-11ea-8e27-30ba32fdb400.png)
+
+## 7th Project :- Seven-LocalStorage Todo Application
+![image](https://user-images.githubusercontent.com/56904422/90890657-08e6b580-e3d8-11ea-8e72-8b516087fe99.png)
