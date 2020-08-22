@@ -25,3 +25,6 @@ in this project i created Context based ToDo Application. in this user can put h
 
 ## 7th Project :- Seven-LocalStorage Todo Application
 ![image](https://user-images.githubusercontent.com/56904422/90890657-08e6b580-e3d8-11ea-8e72-8b516087fe99.png)
+## 8th Project :- Eight-Random User generator
+in this if you hit refresh every time you will get Random User Information: this all Handle by API 
+![image](https://user-images.githubusercontent.com/56904422/90959010-6ac91d00-e4b5-11ea-81bd-048ce0820195.png)
