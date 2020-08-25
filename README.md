@@ -36,7 +36,15 @@ in this user can add product in cart and buy.! all the images taken from PEXEL b
 ![image](https://user-images.githubusercontent.com/56904422/90980829-4a639600-e57b-11ea-8eab-4d2d63ba8ba4.png)
 
 ## 10th Project :- Ten-Gitfirebase Application
-this applicaton is Base on GitHub Api and Firebase :- SO, Here User can SignUp/login And can serch any one  GitHub profile
+"GitHub Repo Search App", a web application which can be used to fetch details of a particular user on GitHub along with all it's public repositories. For this, I've used the github API for requesting and extracting details such as name, location, availability, etc.
+
+Sign in/Sign up procedures are handled through Firebase , a new user must sign up first and can sign in then using the same username and password.
+
+Things I have learned:--
+1. Conditional rendering
+2. React router
+3. Configuring firebase for authentication.
+4. Handling APIs
 ![image](https://user-images.githubusercontent.com/56904422/91180880-d3a6d400-e705-11ea-87a5-4cc0769d6388.png)
 ![image](https://user-images.githubusercontent.com/56904422/91180987-fdf89180-e705-11ea-9bfd-6908d151a7a2.png)
 
